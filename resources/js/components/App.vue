@@ -9,7 +9,7 @@
         <Sidebar :ruta="ruta"> </Sidebar>
         <!-- /Sidebar -->
 
-        <!-- Content Wrapper. Contains page content -->
+        <!-- Contenido principal del sitio web -->
         <!-- <Content></Content> -->
         <div class="content-wrapper">
           <transition name="slide-fade" mode="in-out"> 
