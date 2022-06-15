@@ -1,0 +1,13 @@
+/*Cuando empiece la animacio*/
+.slide-fade-enter,
+.slide-fade-leave-to
+{
+    transform: translateX(10px);
+    opacity: 0;
+}
+
+/*Cuando entre la animacion*/
+.slide-fade-enter-active,
+.slide-fade-leave-active{
+    transition: all 0.2s ease;
+}
