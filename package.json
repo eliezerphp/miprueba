@@ -25,6 +25,8 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
+        "ajax": "^0.0.4",
+        "element-ui": "^2.15.9",
         "vue-router": "^3.5.4"
     }
 }
